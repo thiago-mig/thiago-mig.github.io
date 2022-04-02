@@ -1,9 +1,30 @@
+body{
+    background-color: #007ea7;
+}
 h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 45px;
+    background-color: #ccc9e7;
     
+}
+
+h2{
+    background-color: #ccc9e7;
+}
+
+h3{
+    background-color: #ccc9e7;
 }
 
 p{
     font-family: 'Courier New', Courier, monospace;
+    background-color: #ccc9e7;
+}
+
+#picture{
+    width: 200px;;
+    height: 160px;
+}
+ul{
+    background-color: #ccc9e7;
 }
