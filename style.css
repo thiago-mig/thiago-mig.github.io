@@ -1,24 +1,32 @@
 body{
     background-color: #007ea7;
+    
 }
 h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 45px;
     background-color: #ccc9e7;
+    color: #2e3138;
     
 }
 
 h2{
     background-color: #ccc9e7;
+    color: #2e3138;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 h3{
     background-color: #ccc9e7;
+    color: #2e3138;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 p{
     font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
     background-color: #ccc9e7;
+    color: #2e3138
 }
 
 #picture{
@@ -27,4 +35,6 @@ p{
 }
 ul{
     background-color: #ccc9e7;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
 }
